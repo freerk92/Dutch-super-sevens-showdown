@@ -238,7 +238,7 @@ const body = [
     'Tournament name: …',
     'Date: …',
     'Venue and address: …',
-    'Entry fee: … (including the €1 Dutch Super Sevens Showdown contribution)',
+    'Entry fee: …',
     'Tickets and registration: … (e.g. buy a ticket at … and register your team on Tourplay)',
     'Contact: … (e-mail, Discord, phone)',
   ]),
