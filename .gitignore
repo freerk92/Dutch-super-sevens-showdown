@@ -1,2 +1,5 @@
 
 .claude/launch.json
+
+# Full-size photo originals; the site uses the resized copies in images/web/
+images/*.jpg
